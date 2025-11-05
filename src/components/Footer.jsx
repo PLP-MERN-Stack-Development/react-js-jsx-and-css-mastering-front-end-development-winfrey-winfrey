@@ -22,7 +22,7 @@ export default function Footer({ links = [], className = "" }) {
 
         {/* Copyright */}
         <p className="text-center text-sm text-blue-100">
-          © {new Date().getFullYear()} MyApp. All rights reserved.
+          © {new Date().getFullYear()} All rights reserved.
         </p>
       </div>
     </footer>
